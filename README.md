@@ -49,6 +49,8 @@ end tell
 
 ### Add your own Application Icon
 
+[Download my custom icon file](https://github.com/jeongwhanchoi/dark-mode-switcher/blob/master/dark-mode-switcher.icns?raw=true)
+
 ![dm_04](./img/dm_04.png)
 
 ### Keep in Dock
