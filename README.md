@@ -57,6 +57,8 @@ end tell
 
 ![dm_05](./img/dm_05.png)
 
+This is the link about [How to use the Dock](https://support.apple.com/guide/mac-help/dock-mh35859/mac).
+
 ---
 
 
