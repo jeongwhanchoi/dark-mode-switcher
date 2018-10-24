@@ -13,6 +13,10 @@
 6. *Add your own icon*
 7. *Keep in dock*
 
+### Related
+
+- [todarkmode](https://github.com/abranhe/todarkmode): CLI switcher to dark mode on macOS Mojave
+
 ### Launch the Automator
 
 ![dm_0](./img/dm_0.png)
